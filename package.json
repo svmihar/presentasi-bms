@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "kontol",
+  "name": "whoops",
   "version": "1.0.0",
   "scripts": {
     "start": "mdx-deck deck.mdx",
