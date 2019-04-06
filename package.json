@@ -1,10 +1,6 @@
 {
   "private": true,
-<<<<<<< HEAD
-  "name": "bms",
-=======
-  "name": "whoops",
->>>>>>> 4d7e2c70cfddd4d8f6be5b15d45994708e24b25a
+  "name": "kontol",
   "version": "1.0.0",
   "scripts": {
     "start": "mdx-deck deck.mdx",
@@ -18,10 +14,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.17",
     "@fortawesome/free-solid-svg-icons": "^5.8.1",
     "@fortawesome/react-fontawesome": "^0.1.4",
-    "i": "^0.3.6",
     "npm": "^6.9.0",
-    "react-latex": "^1.2.0",
-    "react-typist": "^2.0.5",
-    "yarn": "^1.15.2"
+    "react-typist": "^2.0.5"
   }
 }
