@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "kontol",
+  "name": "bms",
   "version": "1.0.0",
   "scripts": {
     "start": "mdx-deck deck.mdx",
@@ -11,6 +11,12 @@
     "mdx-deck": "^2.0.6"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.17",
+    "@fortawesome/free-solid-svg-icons": "^5.8.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "i": "^0.3.6",
+    "npm": "^6.9.0",
+    "react-latex": "^1.2.0",
     "react-typist": "^2.0.5",
     "yarn": "^1.15.2"
   }
