@@ -1,6 +1,10 @@
 {
   "private": true,
+<<<<<<< HEAD
   "name": "bms",
+=======
+  "name": "whoops",
+>>>>>>> 4d7e2c70cfddd4d8f6be5b15d45994708e24b25a
   "version": "1.0.0",
   "scripts": {
     "start": "mdx-deck deck.mdx",

@@ -19,28 +19,6 @@ export default class Counter extends React.Component {
     return (
       <Root>
         <Typist>
-          {/* saya tian
-          <Typist.Delay ms={3250} />
-          <Typist.Backspace count={9}/>
-          i like nirvana
-          <Typist.Delay ms={3250} />
-          <Typist.Backspace count={14}/>
-          adobe family is my poison
-          <Typist.Delay ms={3250} />
-          <Typist.Backspace count={25}/>
-          i don't really make videos anymore 
-          <Typist.Delay ms={3250} />
-          <Typist.Backspace count={34}/>
-          tinggal di lab ilkom/ropd
-          <Typist.Delay ms={3250} />
-          <Typist.Backspace count={25}/>
-          i code python and javascript
-          <Typist.Delay ms={3250} />
-          <Typist.Backspace count={28}/>
-          i love to eat tahu tek 
-          <Typist.Delay ms={3250} />
-          <Typist.Backspace count={24}/> */}
-          <FontAwesomeIcon icon="beer" /> 
           <br/>
           visit me at
           <br/>
